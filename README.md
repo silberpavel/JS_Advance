@@ -1,3 +1,3 @@
 ## JS Advance
 
-Classes, apply, inheritance, prototype, redefine prototype
+prototype_inheritance.js => Classes, apply, inheritance, prototype, redefine prototype.
