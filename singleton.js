@@ -1,4 +1,11 @@
 // Singleton pattern (единичный предмет singleton)
+console.log(`counterModule`);
+document.write(`</br>counterModule - module</br>`);
+document.write(`getCounter</br>`);
+document.write(`increaseCounter</br>`);
+document.write(`createInstance</br>`);
+document.write(`getInstance</br>`);
+
 var counterModule = (function() {
 
     var counter = 0,
